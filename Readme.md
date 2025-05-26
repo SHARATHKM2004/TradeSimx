@@ -7,11 +7,6 @@ Sure! Here's the **README** content exactly as you requested — ready to copy-p
 
 A modern No-Code Trading Strategy Backtesting Platform that empowers traders to create Strategy, backtest, and optimize their trading strategies without writing a single line of code. Powered by advanced AI analytics, ChatBot and real-time insights.
 
----
-
-## Solution Demo
-
----
 
 ## Features
 
@@ -151,8 +146,8 @@ python backend/app.py
 
 ## Team Members
 
+* Sharath K M
 * Syed Faisal
-* Sharath KM
 * Vidya R
 * Tanushree R
 
