@@ -157,7 +157,3 @@ python backend/app.py
 
 ```
 
----
-
-Let me know if you want this content saved as a `.md` file or added to your repo automatically!
-```
