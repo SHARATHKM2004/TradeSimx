@@ -1,4 +1,4 @@
-radeSimX - A No-Code Algorithmic Trading Backtesting Platform
+TradeSimX - A No-Code Algorithmic Trading Backtesting Platform
 A modern No-Code Trading Strategy Backtesting Platform that empowers traders to create Strategy, backtest, and optimize their trading strategies without writing a single line of code. Powered by advanced AI analytics , ChatBot and real-time insights .
 
 Solution Demo
@@ -87,6 +87,7 @@ Create a new API key
 Copy the key and add it to your backend .env file as OPENAI_API_KEY
 Team member
 Sharath KM
+Syed Faisal
 Vidya R
 Tanushree R
 Team Name
