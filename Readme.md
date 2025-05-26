@@ -155,5 +155,4 @@ python backend/app.py
 
 **Tech\_Tacklers**
 
-```
 
